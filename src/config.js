@@ -1,4 +1,4 @@
-global.SALT_KEY = '';
+global.SALT_KEY = 'fhabiana';
 global.EMAIL_TMPL = '<strong>{0}</strong>';
 
 module.exports = {
